@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Neil Nguyen neil.nguyen@outlook.com @neilpipped
 
 # THANKS
 
